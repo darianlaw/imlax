@@ -1,15 +1,10 @@
 ## Hi 👋, I'm Lax
 
-**imlax/imlax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Some things about me:
 
 - 🔭 I’m currently working on Snore
 - 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Linux
+- 📫 How to reach me: lax@snorebot.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm Welsh!
